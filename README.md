@@ -1,7 +1,7 @@
  -💣Hi, I’m @GreenyPM
-- I’m interested in Python3, Machine Learning, Minecraft, Videogames, Servers, Art, and, Skating. 
-- I’m currently learning Python, C++, C# and MySQL.
-- I’m looking to collaborate on videogames, research projects, and, databases.
+- I’m interested in Data Science, Machine Learning, Front-End Development, Minecraft, Servers, Information Technology, Software Development, and more.
+- I’m currently learning, PHP, Javascript, React.JS and MySQL.
+- I'm proficient in Python, HTML, and CSS
 - How to reach me == <u>Email:</u> patrickmadon130@gmail.com  or Twitter: https://twitter.com/greeny_pm 
 
 <!---
