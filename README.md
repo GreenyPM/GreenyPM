@@ -1,7 +1,7 @@
  -💣Hi, I’m @GreenyPM
 - I’m interested in Data Science, Machine Learning, Front-End Development, Minecraft, Servers, Information Technology, Software Development, and more.
-- I’m currently learning, Javascript, MySQL, and C#.
-- I'm proficient in Python, HTML, and CSS
+- I’m currently learning, C#.
+- I'm proficient in Python, MySQL, and, Back-End Web Development.
 - How to reach me == <u>Email:</u> patrickmadon130@gmail.com
 
 <!---
